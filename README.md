@@ -1,2 +1,2 @@
 # HL22_GZwork
-Hengen Lab scripts and files that I worked on during summer 2022
+Hengen Lab scripts and files
