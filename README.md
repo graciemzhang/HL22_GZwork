@@ -4,7 +4,7 @@ Hengen Lab scripts and files concerning video analysis and behavior identificati
 **annotation_cleaning**: Contains all scripts and files concerning the processing of any behavior annotations.
 >***consolidating_annotations_df.ipynb***
 
-Puts all behavioral annotations into the optical flow dataframe. Built off of the work done in ***resolution_annotations***.
+Puts all behavioral annotations into the optical flow dataframe. Built off of the work done in ***resolution_annotations.ipynb***.
 
 >***resolution_annotations.ipynb***
 
