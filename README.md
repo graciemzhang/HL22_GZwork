@@ -6,7 +6,9 @@ Includes all notebooks I wrote throughout the summer. All files can be found at 
 
 ### organized_annotations
 > **test_annotations**: csv files of behavioral annotations done for Doran's model
+
 > **behavior_annotations**: csv files of original behavior annotations
+
 > **annotation_guidelines**: notes on how to properly annotate using BORIS software
 
 
