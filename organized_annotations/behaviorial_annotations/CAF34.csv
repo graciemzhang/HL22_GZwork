@@ -1,0 +1,726 @@
+Observation id,CAF34_GZ,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410.mp4,,,,,,,
+,,,,,,,,
+Observation date,6/29/22 15:41,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+2.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+7.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+8.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+8.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+9.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+10.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+10.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+15.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+16.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Digging,,,START
+16.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+18.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Digging,,,STOP
+20.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+22,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+25.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+30,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+38.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+42.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+43.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+44.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+45.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+46.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+47.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+59.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+62.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+70.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+70.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+73.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+73.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Slipping,,,START
+79.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Slipping,,,STOP
+79.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+81.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+94.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+96.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+96.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+102.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+103.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+105.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+105.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+113.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+113.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+114.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+114.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+118.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+124.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+128,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+128.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+137.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+138.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+140.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+140.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+144.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+144.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+158.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+158.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+161.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+162,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+164.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+168.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+170.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+245.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+250.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+251,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+252.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+252.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Ball,,,START
+257,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+259.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+262.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Ball,,,STOP
+262.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+263.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+263.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+337.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+343.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+344.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+348.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+354.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+356.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+357.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+358.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+358.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+362.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+362.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+362.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+362.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+364.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,START
+365.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,STOP
+365.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+368.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+368.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+369.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+376.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+378.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+379.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+380.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+387.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+388.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+394.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+396.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+397.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+398.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+402.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+402.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+405.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+420.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+425.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+459.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+461.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+461.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+462.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+462.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+464.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+482.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+483,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+483.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+484.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+484.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+489.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+521,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+523.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+526.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+528.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+590.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+591.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+591.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+592.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+592.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+593.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+593.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+594.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+594.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+594.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+599.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+600.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+600.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+697.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,START
+750.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,STOP
+758.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+765.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+767.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+780.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+782,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+790,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+790.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+791.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+792.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+792.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+794.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+794.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+795.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+795.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+801.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+801.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+802.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+807.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+808.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+808.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+817.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+817.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+825.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+825.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+827.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+827.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+833.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+836.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+852.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+853.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+854.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+856.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+856.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+856.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+858.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+859.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+860.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+861.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+862.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+863,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+864.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+867.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+868.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+870.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+871.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+872.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+875.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+899.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+899.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+899.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+901,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+901.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+902.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+905.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+908,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+908.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+909.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+909.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+909.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+910.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+910.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+1153.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1156.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1156.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+1162.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+1163.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1164.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1168.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1169.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1170.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+1171.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+1171.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+1171.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+1172,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+1208.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+1211.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+1216.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+1219.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+1223.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+1223.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+1224.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+1225.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1225.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1226,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Ball,,,START
+1226.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+1228.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+1231.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Ball,,,STOP
+1231.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1232.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1233.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1234,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1234.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+1234.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+1234.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+1235.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+1235.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Ball,,,START
+1235.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Ball,,,STOP
+1237.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1237.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1238,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1238.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1239.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Scaling Porthole,,,START
+1243.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1243.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Scaling Porthole,,,STOP
+1243.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1243.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1246.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1246.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1248.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1248.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1252.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1252.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Ball,,,START
+1254.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Ball,,,STOP
+1255,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1274,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1275.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1284.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1285.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1288.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1290.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1294.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1294.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1306.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1308.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1322.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1322.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1323.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1323.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+1327.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+1327.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1334,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1358.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1360.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1364.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1369.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1370.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1372.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1374.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1386.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1482,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1490.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1490.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1492.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1511.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1513.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1525.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1529,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1529.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+1529.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+1529.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1531.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1532.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+1533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+1540.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1543.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1544.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1549.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1551.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+1555,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+1560.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1566.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1566.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1574.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1579.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1581.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1582,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1583.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1588.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1591.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1595.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1597.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1601.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1602.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1604.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1612.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1612.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1615.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1617.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1619.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1619.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1621.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1638,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1640.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1642.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1642.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1645,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1645.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1648.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1650.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1651.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1651.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1652.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1653.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1654.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1656.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1658.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1659.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1660.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1661.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1662.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1664.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1665,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1665.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1666.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1668.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1669.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1674.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1675.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1682.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1683.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1687.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1688.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1689.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1690.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1691.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1692.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1695.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1695.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+1696.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+1698,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1698.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1698.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1699.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1699.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Ball,,,START
+1702.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Ball,,,STOP
+1702.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1703.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1703.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+1707.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+1709,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+1710.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+1711.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+1711.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+1711.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+1712.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+1735.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1739.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1740.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1741,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1741.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Ball,,,START
+1743.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Ball,,,STOP
+1743.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1744.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1744.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1748.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1749.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+1750.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+1750.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+1751,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+1751.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1753.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1753.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+1753.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+1754,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+1754.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+1754.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+1754.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+1759.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1761.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1768.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1769.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1773.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1775,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1783.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1840.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1840.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Ball,,,START
+1853.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Ball,,,STOP
+1853.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1853.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1854.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1856.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+1871.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,START
+1874.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Ball,,,STOP
+1874.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+1875,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+1998,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+1998.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2003,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+2004.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+2006.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2007.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2010.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2013.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2017.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+2018.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+2019,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+2027.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+2027.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+2027.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+2154.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,START
+2159.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,STOP
+2162.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,START
+2176,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,STOP
+2181.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,START
+2186.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,STOP
+2190,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,START
+2191.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,STOP
+2196.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,START
+2198.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,STOP
+2199.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,START
+2201.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,STOP
+2202.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,START
+2208.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,STOP
+2211,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,START
+2212.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,STOP
+2220.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2224.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2233.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+2234.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+2235.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2238.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2238.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2244.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2261.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2264.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2269.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2271.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2286.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+2287.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+2287.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2288.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2298,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+2312.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+2318.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2325.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2325.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+2326.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+2327.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2328.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2329.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2329.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2331,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2333.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2334.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+2347.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+2347.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2351.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2351.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+2352.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+2353.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2359.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2364.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2366.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2366.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+2371,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+2372.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2374.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2376.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2378.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2380.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2381.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2382.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+2382.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+2384.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+2385,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+2385.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+2387.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+2405.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2407.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2408.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+2410.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+2410.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+2411.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+2411.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+2411.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+2414.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2415.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2416,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+2416.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+2417.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+2418.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+2418.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2419.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2420.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2420.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2424,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2424.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2466.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2475.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2476,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+2477,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+2477.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2479.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2479.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+2480.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+2482.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2483.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2486.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2488.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2489.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2490.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2490.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2490.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2491,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+2491.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+2491.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2493.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2493.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+2494.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2494.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+2495.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2498.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+2499,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+2499.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+2499.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+2500.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2501.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2504.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2507.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2507.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+2508.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+2508.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2509,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2509.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2510.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2511,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2512.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2515.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2528.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2530.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2532,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2532.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+2532.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+2533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2534.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2537.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+2540.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+2541.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2547.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2551.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+2551.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+2552.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,START
+2552.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Porthole Interaction,,,STOP
+2553.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2554.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2555.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+2555.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+2556.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2557.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2557.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+2558.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+2558.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2559,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2559.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,START
+2560,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Rearing,,,STOP
+2562.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2564.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2565.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2570.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2580.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2584.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2593.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+2596.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+2598,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2604.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2722.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+2725.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+2726.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2727.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2727.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+2739.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+2740.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2744.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2749.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2752.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2764.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+2773.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+2780,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2782.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2784.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2788.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2795,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2798.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2801.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2803.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2803.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+2804.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+2804.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+2804.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+2804.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,START
+2805.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Riding the Box,,,STOP
+2805.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+2806.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+2808.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2810.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2812.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2822.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2876.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2879.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2880.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2882.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2903.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2905,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2905.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+2913.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+2921.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+2927,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+2941.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+2945.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3059.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3069.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3078.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3081,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3081.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3086.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3089.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,START
+3099.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,STOP
+3115,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,START
+3124,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,STOP
+3133.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3137,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3137.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Digging,,,START
+3138.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Digging,,,STOP
+3138.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3139.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3139.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3146.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3148.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3154,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3154.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3156.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3156.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3157.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3157.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3161.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3166,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+3166.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+3167.8,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3173.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3184.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3187.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3187.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,START
+3189.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Playing w/ Box,,,STOP
+3189.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3191.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3198.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3200.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3223.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3226.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3242.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3246.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3246.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,START
+3253.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,STOP
+3254,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3258,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3277.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3278.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3279.733,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3281.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3289.533,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3290.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3295.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3297.333,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3323.067,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3327.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3331.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3333.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3335,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3336.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3359.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3377.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3380.467,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3382.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3428.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3432.6,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3432.867,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3440.2,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP
+3440.267,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,START
+3442.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Locomotion,,,STOP
+3451.933,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,START
+3457.4,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Grooming,,,STOP
+3511.133,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,START
+3514.667,/Users/graciezhang/Documents/Hengen-Lab/videos/e3v819c-20200828T011409-021410-flipped.mp4,3601.07,15,,Nesting,,,STOP

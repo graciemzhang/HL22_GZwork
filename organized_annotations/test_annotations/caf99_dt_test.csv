@@ -1,0 +1,112 @@
+Observation id,130839,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,,,,,,,
+,,,,,,,,
+Observation date,2022-07-24 14:34:11,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+38.900,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+47.900,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+48.067,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Nesting,,,START
+49.400,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Nesting,,,STOP
+62.133,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+87.633,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+91.467,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+93.067,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+93.600,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+96.600,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+98.033,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+102.067,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+102.667,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+108.567,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+111.933,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+114.100,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+120.133,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Nesting,,,START
+125.767,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Nesting,,,STOP
+129.800,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+153.267,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+154.500,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+159.600,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+163.633,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+165.700,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+178.067,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+185.067,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+189.467,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+250.900,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+251.900,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Nesting,,,START
+264.033,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Nesting,,,STOP
+264.133,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+289.067,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+293.133,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Porthole Interaction,,,START
+297.967,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Porthole Interaction,,,STOP
+299.000,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Porthole Interaction,,,START
+305.067,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Porthole Interaction,,,STOP
+331.600,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+338.067,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+338.633,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+345.967,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+347.800,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+356.733,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Nesting,,,START
+357.533,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+365.300,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Nesting,,,STOP
+392.167,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+438.033,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+449.100,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+461.067,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+475.200,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+478.067,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+481.067,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+481.667,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+482.867,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Nesting,,,START
+491.800,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Nesting,,,STOP
+870.500,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+872.833,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+1242.167,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+1243.167,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+1695.733,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+1701.000,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+1784.633,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+1788.300,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+1788.867,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,START
+1789.767,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Grooming,,,STOP
+1861.600,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+1863.467,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+1865.167,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+1866.733,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+2032.100,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+2039.800,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+2046.733,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+2049.100,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+2050.933,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+2052.933,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+2349.367,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+2353.933,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Nesting,,,START
+2354.600,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+2359.567,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Nesting,,,STOP
+2372.800,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+2376.533,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+2597.733,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Nesting,,,START
+2602.033,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Nesting,,,STOP
+2602.433,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+2608.233,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+2734.267,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+2736.467,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+3114.167,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+3117.800,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+3174.833,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+3177.067,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+3309.533,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+3311.967,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+3478.300,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+3486.067,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP
+3518.867,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,START
+3524.000,/Users/doranwu/Downloads/CAF00099-20210607T120839-130839.mp4,3600.000,30.0,,Minor Postural Movement,,,STOP

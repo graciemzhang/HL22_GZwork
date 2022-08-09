@@ -1,0 +1,779 @@
+From Top,,,
+Player #1,e3v819c-20200808T0609-0709.mp4,,
+Time,Behavior,Comment,Status
+0,SS/Wake,,START
+0.067,Locomotion,,START
+1.467,Locomotion,,STOP
+5.133,Porthole Interaction,,START
+7.8,Porthole Interaction,,STOP
+8.067,Locomotion,,START
+9.933,Locomotion,,STOP
+10.533,Porthole Interaction,,START
+11.267,Locomotion,,START
+11.267,Porthole Interaction,,STOP
+14.267,Locomotion,,STOP
+14.467,Porthole Interaction,,START
+16.867,Porthole Interaction,,STOP
+16.933,Locomotion,,START
+19.267,Locomotion,,STOP
+19.333,Porthole Interaction,,START
+19.733,Porthole Interaction,,STOP
+20.533,Locomotion,,START
+21.467,Locomotion,,STOP
+21.933,Porthole Interaction,,START
+22.133,Porthole Interaction,,STOP
+23.8,Locomotion,,START
+24.2,Locomotion,,STOP
+24.333,Porthole Interaction,,START
+24.933,Porthole Interaction,,STOP
+25.133,Porthole Interaction,,START
+25.333,Porthole Interaction,,STOP
+25.867,Porthole Interaction,,START
+27.533,Porthole Interaction,,STOP
+28.067,Locomotion,,START
+28.933,Locomotion,,STOP
+29.267,Porthole Interaction,,START
+32.333,Porthole Interaction,,STOP
+32.6,Locomotion,,START
+33,Locomotion,,STOP
+33.067,Porthole Interaction,,START
+38.2,Porthole Interaction,,STOP
+38.267,Locomotion,,START
+38.867,Locomotion,,STOP
+39.133,Porthole Interaction,,START
+42.933,Porthole Interaction,,STOP
+43.4,Porthole Interaction,,START
+45.867,Porthole Interaction,,STOP
+46.533,Porthole Interaction,,START
+50.867,Porthole Interaction,,STOP
+51.733,Porthole Interaction,,START
+53.2,Porthole Interaction,,STOP
+53.533,Grooming,,START
+54.267,Grooming,,STOP
+54.333,Locomotion,,START
+54.933,Porthole Interaction,,START
+55.533,Locomotion,,STOP
+60.533,Porthole Interaction,,STOP
+60.8,Locomotion,,START
+61.6,Locomotion,,STOP
+62.8,Porthole Interaction,,START
+63.333,Porthole Interaction,,STOP
+63.4,Locomotion,,START
+64.333,Locomotion,,STOP
+81.6,Porthole Interaction,,START
+82.333,Porthole Interaction,,STOP
+82.867,Grooming,,START
+84.4,Grooming,,STOP
+84.533,Locomotion,,START
+87.333,Locomotion,,STOP
+88.067,Grooming,,START
+94.467,Grooming,,STOP
+265.4,Porthole Interaction,,START
+278.8,Porthole Interaction,,STOP
+278.933,Locomotion,,START
+284,Locomotion,,STOP
+327,Porthole Interaction,,START
+329.933,Porthole Interaction,,STOP
+330.2,Porthole Interaction,,START
+332.333,Porthole Interaction,,STOP
+332.667,Locomotion,,START
+337.4,Locomotion,,STOP
+337.733,Playing w/ Ball,,START
+338.6,Playing w/ Ball,,STOP
+338.6,Riding the Ball,,START
+341.867,Playing w/ Ball,,START
+341.867,Riding the Ball,,STOP
+342.667,Playing w/ Ball,,STOP
+343.4,Playing w/ Box,,START
+343.6,Playing w/ Box,,STOP
+344,Riding the Box,,START
+344.4,Riding the Box,,STOP
+345.467,Drinking,,START
+354.133,Drinking,,STOP
+354.667,Riding the Box,,START
+356,Riding the Box,,STOP
+356.6,Rearing,,START
+358.267,Rearing,,STOP
+358.267,Riding the Box,,START
+359,Riding the Box,,STOP
+359.133,Playing w/ Box,,START
+359.867,Playing w/ Box,,STOP
+361.533,Locomotion,,START
+362.6,Locomotion,,STOP
+363,Rearing,,START
+364.067,Rearing,,STOP
+366.667,Playing w/ Ball,,START
+369.6,Playing w/ Ball,,STOP
+371.667,Playing w/ Ball,,START
+372.667,Playing w/ Ball,,STOP
+372.933,Playing w/ Ball,,START
+373.2,Playing w/ Ball,,STOP
+374.067,Playing w/ Ball,,START
+392.267,Playing w/ Ball,,STOP
+394.133,Locomotion,,START
+395.867,Locomotion,,STOP
+396.267,Locomotion,,START
+397.533,Porthole Interaction,,START
+398.267,Locomotion,,STOP
+399.467,Porthole Interaction,,STOP
+399.933,Locomotion,,START
+400.133,Locomotion,,STOP
+402.467,Locomotion,,START
+403.8,Locomotion,,STOP
+404.867,Locomotion,,START
+405.933,Locomotion,,STOP
+406.133,Locomotion,,START
+407.267,Locomotion,,STOP
+407.733,Playing w/ Ball,,START
+408.2,Playing w/ Ball,,STOP
+408.267,Riding the Ball,,START
+408.467,Riding the Ball,,STOP
+408.533,Playing w/ Ball,,START
+409.667,Playing w/ Ball,,STOP
+409.933,Playing w/ Ball,,START
+411.667,Playing w/ Ball,,STOP
+412.2,Playing w/ Ball,,START
+412.467,Playing w/ Ball,,STOP
+412.933,Riding the Ball,,START
+415.267,Riding the Ball,,STOP
+415.333,Playing w/ Ball,,START
+416.267,Playing w/ Ball,,STOP
+416.533,Playing w/ Ball,,START
+423.467,Playing w/ Ball,,STOP
+424.4,Playing w/ Ball,,START
+426.267,Playing w/ Ball,,STOP
+432.133,Playing w/ Ball,,START
+438.8,Playing w/ Ball,,STOP
+444.333,Playing w/ Ball,,START
+445.2,Playing w/ Ball,,STOP
+445.867,Playing w/ Ball,,START
+446.467,Playing w/ Ball,,STOP
+446.467,Riding the Ball,,START
+448.2,Riding the Ball,,STOP
+448.467,Playing w/ Ball,,START
+448.8,Playing w/ Ball,,STOP
+449.133,Playing w/ Ball,,START
+449.933,Playing w/ Ball,,STOP
+450.667,Playing w/ Ball,,START
+451,Playing w/ Ball,,STOP
+451.2,Riding the Ball,,START
+452.533,Riding the Ball,,STOP
+452.867,Playing w/ Ball,,START
+453.8,Playing w/ Ball,,STOP
+465.267,Playing w/ Box,,START
+465.467,Playing w/ Box,,STOP
+465.6,Riding the Box,,START
+468.067,Riding the Box,,STOP
+468.333,Playing w/ Box,,START
+468.533,Playing w/ Box,,STOP
+484.867,Playing w/ Ball,,START
+485.467,Playing w/ Ball,,STOP
+487.533,Riding the Box,,START
+488.067,Rearing,,START
+489.933,Rearing,,STOP
+489.933,Riding the Box,,STOP
+490,Playing w/ Box,,START
+491.133,Playing w/ Box,,STOP
+494.333,Playing w/ Ball,,START
+494.733,Playing w/ Ball,,STOP
+494.733,Riding the Ball,,START
+494.867,Riding the Ball,,STOP
+495,Playing w/ Ball,,START
+495.733,Locomotion,,START
+495.733,Playing w/ Ball,,STOP
+499.4,Locomotion,,STOP
+502.8,Locomotion,,START
+504.133,Locomotion,,STOP
+504.2,Playing w/ Ball,,START
+504.533,Playing w/ Ball,,STOP
+505.533,Playing w/ Ball,,START
+505.867,Playing w/ Ball,,STOP
+505.933,Riding the Box,,START
+507.733,Riding the Box,,STOP
+508.333,Drinking,,START
+511.8,Drinking,,STOP
+511.8,Riding the Box,,START
+512.133,Riding the Box,,STOP
+512.667,Drinking,,START
+515.067,Drinking,,STOP
+515.133,Riding the Box,,START
+515.8,Riding the Box,,STOP
+516.267,Playing w/ Box,,START
+516.8,Playing w/ Box,,STOP
+517,Riding the Ball,,START
+517.867,Riding the Ball,,STOP
+518.2,Playing w/ Ball,,START
+518.267,Playing w/ Ball,,STOP
+518.533,Locomotion,,START
+519.733,Locomotion,,STOP
+528.467,Locomotion,,START
+534.067,Locomotion,,STOP
+535.533,Locomotion,,START
+536.533,Locomotion,,STOP
+539.267,Locomotion,,START
+541,Locomotion,,STOP
+543.067,Locomotion,,START
+545.4,Locomotion,,STOP
+545.467,Locomotion,,START
+547.2,Locomotion,,STOP
+556.467,Locomotion,,START
+557.8,Locomotion,,STOP
+558.467,Locomotion,,START
+559.867,Locomotion,,STOP
+559.933,Porthole Interaction,,START
+560,Porthole Interaction,,STOP
+560.133,Porthole Interaction,,START
+561.2,Porthole Interaction,,STOP
+561.8,Porthole Interaction,,START
+562.467,Porthole Interaction,,STOP
+562.867,Porthole Interaction,,START
+564,Porthole Interaction,,STOP
+564.467,Porthole Interaction,,START
+568.133,Porthole Interaction,,STOP
+568.4,Porthole Interaction,,START
+573.067,Porthole Interaction,,STOP
+573.933,Porthole Interaction,,START
+577,Porthole Interaction,,STOP
+577.4,Porthole Interaction,,START
+578.4,Porthole Interaction,,STOP
+578.8,Porthole Interaction,,START
+582.667,Porthole Interaction,,STOP
+583.133,Porthole Interaction,,START
+583.2,Porthole Interaction,,STOP
+583.6,Porthole Interaction,,START
+584.6,Porthole Interaction,,STOP
+584.933,Porthole Interaction,,START
+586.933,Porthole Interaction,,STOP
+588.2,Porthole Interaction,,START
+589,Locomotion,,START
+589.2,Porthole Interaction,,STOP
+591.4,Locomotion,,STOP
+591.533,Porthole Interaction,,START
+594.267,Porthole Interaction,,STOP
+597.133,Locomotion,,START
+597.267,Porthole Interaction,,START
+598.467,Locomotion,,STOP
+599.8,Locomotion,,START
+603.067,Locomotion,,STOP
+604.6,Locomotion,,START
+606,Locomotion,,STOP
+606.733,Porthole Interaction,,STOP
+609.6,Porthole Interaction,,START
+610.267,Porthole Interaction,,STOP
+610.4,Locomotion,,START
+611.533,Locomotion,,STOP
+611.867,Grooming,,START
+614.733,Grooming,,STOP
+639,Grooming,,START
+640.467,Grooming,,STOP
+644,Locomotion,,START
+646,Locomotion,,STOP
+646.333,Porthole Interaction,,START
+647.933,Porthole Interaction,,STOP
+648.733,Porthole Interaction,,START
+649.267,Porthole Interaction,,STOP
+650.467,Porthole Interaction,,START
+655.667,Porthole Interaction,,STOP
+669.733,Locomotion,,START
+670.733,Locomotion,,STOP
+674.133,Porthole Interaction,,START
+674.6,Porthole Interaction,,STOP
+675.2,Porthole Interaction,,START
+676.133,Porthole Interaction,,STOP
+677.133,Porthole Interaction,,START
+680.6,Porthole Interaction,,STOP
+681.2,Porthole Interaction,,START
+688.333,Porthole Interaction,,STOP
+689.8,Porthole Interaction,,START
+690.533,Porthole Interaction,,STOP
+692.267,Porthole Interaction,,START
+692.4,Porthole Interaction,,STOP
+692.8,Porthole Interaction,,START
+693.467,Porthole Interaction,,STOP
+695,Porthole Interaction,,START
+704.933,Porthole Interaction,,STOP
+705.667,Locomotion,,START
+708,Locomotion,,STOP
+708.133,Locomotion,,START
+709.333,Locomotion,,STOP
+711.267,Locomotion,,START
+717.067,Locomotion,,STOP
+720.267,Porthole Interaction,,START
+721.667,Porthole Interaction,,STOP
+722.6,Porthole Interaction,,START
+724.067,Locomotion,,START
+724.267,Porthole Interaction,,STOP
+726.667,Locomotion,,STOP
+729,Porthole Interaction,,START
+729.333,Porthole Interaction,,STOP
+729.4,Locomotion,,START
+731.333,Locomotion,,STOP
+749.067,Grooming,,START
+823.6,Grooming,,STOP
+834.267,Locomotion,,START
+837.333,Locomotion,,STOP
+841.2,Porthole Interaction,,START
+843.533,Porthole Interaction,,STOP
+847.333,Locomotion,,START
+849.533,Locomotion,,STOP
+850.933,Locomotion,,START
+852.8,Locomotion,,STOP
+852.867,Playing w/ Ball,,START
+853.067,Playing w/ Ball,,STOP
+853.2,Playing w/ Ball,,START
+853.6,Playing w/ Ball,,STOP
+854.8,Locomotion,,START
+862.333,Locomotion,,STOP
+864.6,Locomotion,,START
+907.4,Porthole Interaction,,START
+907.6,Porthole Interaction,,STOP
+909.2,Porthole Interaction,,START
+910.8,Porthole Interaction,,STOP
+911.4,Locomotion,,STOP
+912,Locomotion,,START
+912.067,Porthole Interaction,,START
+912.867,Porthole Interaction,,STOP
+913.667,Porthole Interaction,,START
+913.8,Porthole Interaction,,STOP
+915.467,Locomotion,,STOP
+918.667,Playing w/ Box,,START
+918.8,Playing w/ Box,,STOP
+919.267,Playing w/ Box,,START
+920.4,Playing w/ Box,,STOP
+921.733,Drinking,,START
+940.067,Drinking,,STOP
+943.267,Playing w/ Ball,,START
+944.133,Playing w/ Ball,,STOP
+944.2,Riding the Ball,,START
+947.333,Riding the Ball,,STOP
+947.733,Playing w/ Ball,,START
+948.267,Playing w/ Ball,,STOP
+949.067,Riding the Box,,START
+949.8,Rearing,,START
+951.533,Rearing,,STOP
+951.533,Riding the Box,,STOP
+951.933,Playing w/ Box,,START
+952.6,Playing w/ Box,,STOP
+970.4,Playing w/ Ball,,START
+976.4,Playing w/ Ball,,STOP
+979.6,Playing w/ Ball,,START
+980.333,Playing w/ Ball,,STOP
+980.333,Riding the Ball,,START
+982.467,Riding the Ball,,STOP
+982.733,Playing w/ Ball,,START
+983.133,Playing w/ Ball,,STOP
+989.333,Locomotion,,START
+993.667,Locomotion,,STOP
+995.133,Locomotion,,START
+997.8,Locomotion,,STOP
+1000.933,Locomotion,,START
+1001.067,Locomotion,,STOP
+1001.8,Locomotion,,START
+1002,Porthole Interaction,,START
+1002.867,Porthole Interaction,,STOP
+1002.933,Locomotion,,STOP
+1003.933,Locomotion,,START
+1004.133,Locomotion,,STOP
+1004.267,Porthole Interaction,,START
+1006,Porthole Interaction,,STOP
+1007.6,Porthole Interaction,,START
+1035,Porthole Interaction,,STOP
+1036.733,Porthole Interaction,,START
+1304.4,Porthole Interaction,,STOP
+1451.667,Porthole Interaction,,START
+1452.2,Porthole Interaction,,STOP
+1456.733,Locomotion,,START
+1458,Locomotion,,STOP
+1458.867,Porthole Interaction,,START
+1461.933,Porthole Interaction,,STOP
+1463.8,Porthole Interaction,,START
+1464,Porthole Interaction,,STOP
+1488.267,Locomotion,,START
+1489.4,Locomotion,,STOP
+1489.533,Porthole Interaction,,START
+1489.867,Porthole Interaction,,STOP
+1490.867,Porthole Interaction,,START
+1494.133,Porthole Interaction,,STOP
+1494.667,Porthole Interaction,,START
+1495.4,Porthole Interaction,,STOP
+1497.4,Porthole Interaction,,START
+1499.133,Porthole Interaction,,STOP
+1514.867,Porthole Interaction,,START
+1519.267,Porthole Interaction,,STOP
+1520.533,Porthole Interaction,,START
+1522.133,Porthole Interaction,,STOP
+1522.667,Porthole Interaction,,START
+1524.4,Porthole Interaction,,STOP
+1526,Porthole Interaction,,START
+1527.067,Porthole Interaction,,STOP
+1527.8,Porthole Interaction,,START
+1528.2,Porthole Interaction,,STOP
+1531.867,Locomotion,,START
+1532.333,Locomotion,,STOP
+1532.667,Porthole Interaction,,START
+1533.867,Porthole Interaction,,STOP
+1534.733,Porthole Interaction,,START
+1536.733,Porthole Interaction,,STOP
+1537.333,Porthole Interaction,,START
+1539.933,Porthole Interaction,,STOP
+1540.533,Porthole Interaction,,START
+1540.6,Porthole Interaction,,STOP
+1544.267,Porthole Interaction,,START
+1546.467,Porthole Interaction,,STOP
+1561.6,Locomotion,,START
+1563.267,Locomotion,,STOP
+1564.467,Porthole Interaction,,START
+1565.8,Porthole Interaction,,STOP
+1620,Locomotion,,START
+1621.533,Locomotion,,STOP
+1623,Porthole Interaction,,START
+1704.6,Porthole Interaction,,STOP
+1708.667,Porthole Interaction,,START
+1815.733,Porthole Interaction,,STOP
+1819.467,Locomotion,,START
+1821.6,Locomotion,,STOP
+1829.6,Porthole Interaction,,START
+1871.133,Porthole Interaction,,STOP
+1872,Grooming,,START
+1923.467,Grooming,,STOP
+2014.467,Playing w/ Box,,START
+2014.933,Playing w/ Box,,STOP
+2015.2,Riding the Box,,START
+2015.6,Riding the Box,,STOP
+2016.067,Drinking,,START
+2028.133,Drinking,,STOP
+2030.8,Playing w/ Box,,START
+2031.333,Playing w/ Box,,STOP
+2032.933,Playing w/ Ball,,START
+2033.533,Playing w/ Ball,,STOP
+2039.8,Playing w/ Ball,,START
+2040.267,Playing w/ Ball,,STOP
+2040.267,Riding the Ball,,START
+2041.133,Riding the Ball,,STOP
+2041.667,Playing w/ Ball,,START
+2042.2,Playing w/ Ball,,STOP
+2043,Playing w/ Box,,START
+2043.667,Playing w/ Box,,STOP
+2047.333,Porthole Interaction,,START
+2047.933,Porthole Interaction,,STOP
+2052.933,Porthole Interaction,,START
+2054.2,Porthole Interaction,,STOP
+2061.867,Porthole Interaction,,START
+2063.467,Porthole Interaction,,STOP
+2063.733,Porthole Interaction,,START
+2065,Porthole Interaction,,STOP
+2067.733,Grooming,,START
+2069,Grooming,,STOP
+2070.867,Grooming,,START
+2079.267,Grooming,,STOP
+2097.333,Locomotion,,START
+2099,Locomotion,,STOP
+2099.6,Porthole Interaction,,START
+2137.067,Porthole Interaction,,STOP
+2138.133,Porthole Interaction,,START
+2140,Porthole Interaction,,STOP
+2145.133,Porthole Interaction,,START
+2146.067,Porthole Interaction,,STOP
+2149.933,Locomotion,,START
+2152.2,Locomotion,,STOP
+2155.733,Locomotion,,START
+2156.933,Locomotion,,STOP
+2158.6,Porthole Interaction,,START
+2159.267,Porthole Interaction,,STOP
+2159.8,Porthole Interaction,,START
+2160.667,Porthole Interaction,,STOP
+2161.667,Porthole Interaction,,START
+2162.2,Porthole Interaction,,STOP
+2162.333,Porthole Interaction,,START
+2162.867,Locomotion,,START
+2162.867,Porthole Interaction,,STOP
+2163.667,Locomotion,,STOP
+2164.133,Porthole Interaction,,START
+2164.867,Porthole Interaction,,STOP
+2170.467,Porthole Interaction,,START
+2172.733,Porthole Interaction,,STOP
+2174.8,Porthole Interaction,,START
+2175.533,Porthole Interaction,,STOP
+2176.133,Porthole Interaction,,START
+2180.067,Porthole Interaction,,STOP
+2180.533,Porthole Interaction,,START
+2181.667,Porthole Interaction,,STOP
+2223.6,Locomotion,,START
+2228.133,Locomotion,,STOP
+2230.6,Locomotion,,START
+2233.533,Locomotion,,STOP
+2234.6,Locomotion,,START
+2236.133,Locomotion,,STOP
+2236.8,Porthole Interaction,,START
+2238.733,Porthole Interaction,,STOP
+2239.8,Porthole Interaction,,START
+2240.4,Locomotion,,START
+2240.467,Porthole Interaction,,STOP
+2240.867,Porthole Interaction,,START
+2242.067,Porthole Interaction,,STOP
+2242.667,Locomotion,,STOP
+2288.333,Porthole Interaction,,START
+2288.933,Porthole Interaction,,STOP
+2292.133,Porthole Interaction,,START
+2293.133,Porthole Interaction,,STOP
+2306.933,Playing w/ Box,,START
+2307.467,Playing w/ Box,,STOP
+2308.4,Rearing,,START
+2310.733,Rearing,,STOP
+2311.2,Playing w/ Ball,,START
+2312.867,Playing w/ Ball,,STOP
+2317.267,Playing w/ Box,,START
+2317.867,Playing w/ Box,,STOP
+2319.133,Playing w/ Ball,,START
+2319.933,Playing w/ Ball,,STOP
+2321.533,Playing w/ Ball,,START
+2328,Playing w/ Ball,,STOP
+2329.733,Playing w/ Ball,,START
+2345.4,Playing w/ Ball,,STOP
+2345.667,Playing w/ Box,,START
+2346.067,Playing w/ Box,,STOP
+2346.067,Riding the Box,,START
+2349.533,Riding the Box,on the box while playing with the ball ,STOP
+2349.867,Playing w/ Ball,,START
+2354.8,Playing w/ Ball,,STOP
+2355.533,Playing w/ Box,,START
+2356.067,Playing w/ Box,,STOP
+2356.2,Riding the Ball,,START
+2370.133,Riding the Ball,,STOP
+2378.2,Playing w/ Ball,,START
+2378.733,Playing w/ Ball,,STOP
+2381.067,Rearing,,START
+2382.2,Rearing,,STOP
+2382.933,Locomotion,,START
+2383.467,Locomotion,,STOP
+2384.8,Locomotion,,START
+2386.133,Locomotion,,STOP
+2402.267,Locomotion,,START
+2403.2,Locomotion,,STOP
+2404.4,Porthole Interaction,,START
+2404.8,Porthole Interaction,,STOP
+2409.733,Locomotion,,START
+2411.133,Locomotion,,STOP
+2411.667,Playing w/ Box,,START
+2412,Playing w/ Box,,STOP
+2412.867,Rearing,,START
+2415.133,Rearing,,STOP
+2420.6,Playing w/ Box,,START
+2421,Playing w/ Box,,STOP
+2421.6,Playing w/ Ball,,START
+2421.867,Playing w/ Ball,,STOP
+2422.6,Locomotion,,START
+2423.6,Locomotion,,STOP
+2427.667,Locomotion,,START
+2430.333,Locomotion,,STOP
+2431.067,Playing w/ Box,,START
+2431.6,Playing w/ Box,,STOP
+2431.933,Rearing,,START
+2432.933,Rearing,,STOP
+2448.533,Rearing,,START
+2451.933,Rearing,,STOP
+2452.4,Playing w/ Box,,START
+2453.667,Playing w/ Box,,STOP
+2457.6,Drinking,,START
+2458.533,Drinking,,STOP
+2459.8,Rearing,,START
+2462.467,Rearing,,STOP
+2466.067,Playing w/ Ball,,START
+2466.6,Playing w/ Ball,,STOP
+2468,Rearing,,START
+2474.533,Rearing,,STOP
+2475.4,Playing w/ Box,,START
+2475.733,Playing w/ Box,,STOP
+2492,Locomotion,,START
+2495.733,Locomotion,,STOP
+2497.6,Playing w/ Ball,,START
+2498.067,Playing w/ Ball,,STOP
+2499.867,Playing w/ Ball,,START
+2500.333,Playing w/ Ball,,STOP
+2501.2,Rearing,,START
+2503.067,Rearing,,STOP
+2503.6,Playing w/ Box,,START
+2504.867,Playing w/ Box,,STOP
+2509.267,Locomotion,,START
+2512.333,Locomotion,,STOP
+2542.467,Playing w/ Ball,,START
+2543,Playing w/ Ball,,STOP
+2548.667,Playing w/ Ball,,START
+2549.067,Playing w/ Ball,,STOP
+2550.533,Rearing,,START
+2570,Rearing,,STOP
+2571.6,Porthole Interaction,,START
+2572.467,Porthole Interaction,,STOP
+2579.8,Locomotion,,START
+2582.533,Locomotion,,STOP
+2612.133,Rearing,,START
+2612.867,Rearing,,STOP
+2620.133,Playing w/ Box,,START
+2620.467,Playing w/ Box,,STOP
+2620.467,Riding the Box,,START
+2622.333,Rearing,,START
+2623,Rearing,,STOP
+2624.533,Drinking,,START
+2625.2,Drinking,,STOP
+2625.2,Rearing,,START
+2625.867,Rearing,,STOP
+2626,Riding the Box,,STOP
+2626.067,Playing w/ Box,,START
+2626.4,Playing w/ Box,,STOP
+2626.933,Riding the Ball,,START
+2628.867,Riding the Ball,,STOP
+2628.933,Playing w/ Ball,,START
+2629.267,Playing w/ Ball,,STOP
+2629.6,Locomotion,,START
+2630.867,Locomotion,,STOP
+2633.267,Locomotion,,START
+2634.2,Locomotion,,STOP
+2635,Locomotion,,START
+2638.067,Locomotion,,STOP
+2883.546,SS/NREM,,START
+2883.546,SS/Wake,,STOP
+3084.613,SS/NREM,,STOP
+3084.613,SS/Wake,,START
+3165.867,Grooming,,START
+3168.667,Grooming,,STOP
+3175.867,Playing w/ Box,,START
+3176.267,Playing w/ Box,,STOP
+3176.867,Riding the Box,,START
+3177.733,Rearing,,START
+3178.6,Rearing,,STOP
+3181.133,Riding the Box,,STOP
+3182,Playing w/ Box,,START
+3182.4,Playing w/ Box,,STOP
+3194.133,Locomotion,,START
+3195.933,Locomotion,,STOP
+3195.933,Porthole Interaction,,START
+3198.533,Porthole Interaction,,STOP
+3208.133,Rearing,,START
+3211,Rearing,,STOP
+3224.933,Porthole Interaction,,START
+3225.333,Porthole Interaction,,STOP
+3234.533,Locomotion,,START
+3235.733,Locomotion,,STOP
+3296.333,Locomotion,,START
+3297.533,Locomotion,,STOP
+3299.6,Locomotion,,START
+3312.267,Locomotion,,STOP
+3312.533,Locomotion,,START
+3313.733,Locomotion,,STOP
+3316.333,Rearing,,START
+3317.133,Rearing,,STOP
+3323.6,Locomotion,,START
+3324.867,Locomotion,,STOP
+3326.8,Playing w/ Ball,,START
+3328.8,Playing w/ Ball,,STOP
+3329.133,Playing w/ Ball,,START
+3329.6,Playing w/ Ball,,STOP
+3330.267,Riding the Ball,,START
+3330.6,Riding the Ball,,STOP
+3330.933,Playing w/ Ball,,START
+3331.4,Playing w/ Ball,,STOP
+3331.867,Playing w/ Box,,START
+3332.267,Playing w/ Box,,STOP
+3334.2,Rearing,,START
+3335.333,Rearing,,STOP
+3347.4,Playing w/ Box,,START
+3347.867,Playing w/ Box,,STOP
+3348,Riding the Box,,START
+3350,Riding the Box,,STOP
+3351.8,Playing w/ Box,,START
+3352.067,Playing w/ Box,,STOP
+3352.6,Riding the Ball,,START
+3353.267,Riding the Ball,,STOP
+3353.867,Playing w/ Ball,,START
+3354.2,Playing w/ Ball,,STOP
+3355.533,Rearing,,START
+3361,Rearing,,STOP
+3362.533,Rearing,,START
+3370.6,Rearing,,STOP
+3376.6,Drinking,,START
+3388.267,Drinking,,STOP
+3391.8,Playing w/ Ball,,START
+3392.267,Playing w/ Ball,,STOP
+3396.667,Locomotion,,START
+3397.867,Locomotion,,STOP
+3398,Locomotion,,START
+3399.533,Locomotion,,STOP
+3402,Playing w/ Box,,START
+3402.467,Playing w/ Box,,STOP
+3402.533,Playing w/ Box,,START
+3404,Playing w/ Box,,STOP
+3404.133,Riding the Ball,,START
+3407.133,Riding the Ball,,STOP
+3407.2,Playing w/ Ball,,START
+3407.667,Playing w/ Ball,,STOP
+3407.933,Rearing,,START
+3410.733,Rearing,,STOP
+3411,Locomotion,,START
+3412.133,Locomotion,,STOP
+3412.133,Porthole Interaction,,START
+3413,Porthole Interaction,,STOP
+3415.133,Rearing,,START
+3418.6,Rearing,,STOP
+3421.667,Locomotion,,START
+3422.533,Locomotion,,STOP
+3423.933,Porthole Interaction,,START
+3424.133,Porthole Interaction,,STOP
+3425.067,Porthole Interaction,,START
+3425.867,Porthole Interaction,,STOP
+3433.267,Porthole Interaction,,START
+3434.067,Locomotion,,START
+3434.333,Porthole Interaction,,STOP
+3435.733,Locomotion,,STOP
+3436.6,Porthole Interaction,,START
+3438.667,Porthole Interaction,,STOP
+3454.067,Locomotion,,START
+3455.333,Locomotion,,STOP
+3457.733,Porthole Interaction,,START
+3458.267,Porthole Interaction,,STOP
+3458.8,Locomotion,,START
+3460.333,Locomotion,,STOP
+3460.333,Porthole Interaction,,START
+3460.8,Porthole Interaction,,STOP
+3463.133,Porthole Interaction,,START
+3463.8,Porthole Interaction,,STOP
+3464.333,Porthole Interaction,,START
+3465.067,Porthole Interaction,,STOP
+3466.067,Porthole Interaction,,START
+3467.467,Porthole Interaction,,STOP
+3475,Locomotion,,START
+3476.333,Locomotion,,STOP
+3477.4,Locomotion,,START
+3478.4,Locomotion,,STOP
+3482.8,Locomotion,,START
+3484.6,Locomotion,,STOP
+3486.667,Locomotion,,START
+3489.133,Locomotion,,STOP
+3489.867,Rearing,,START
+3491.867,Rearing,,STOP
+3502.867,Rearing,,START
+3504.533,Rearing,,STOP
+3507.067,Playing w/ Ball,,START
+3507.467,Playing w/ Ball,,STOP
+3511.733,Playing w/ Ball,,START
+3511.933,Playing w/ Ball,,STOP
+3512.333,Playing w/ Box,,START
+3512.8,Playing w/ Box,,STOP
+3513,Locomotion,,START
+3513.733,Locomotion,,STOP
+3513.8,Locomotion,,START
+3514.4,Locomotion,,STOP
+3514.533,Locomotion,,START
+3515.6,Locomotion,,STOP
+3516.467,Rearing,,START
+3518.267,Porthole Interaction,,START
+3518.8,Porthole Interaction,,STOP
+3518.8,Rearing,,STOP
+3523.667,Porthole Interaction,,START
+3524.267,Porthole Interaction,,STOP
+3525.133,Locomotion,,START
+3526.733,Locomotion,,STOP
+3550.4,Locomotion,,START
+3553.667,Locomotion,,STOP
+3560.133,Porthole Interaction,,START
+3561.533,Porthole Interaction,,STOP
+3567.8,SS/Wake,,STOP

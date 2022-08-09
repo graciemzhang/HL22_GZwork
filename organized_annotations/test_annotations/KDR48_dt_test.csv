@@ -1,0 +1,72 @@
+Observation id,KDR_corner_beh,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,,,,,,,
+,,,,,,,,
+Observation date,2022-07-15 15:07:05,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.000,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+1030.533,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Locomotion,,,START
+1042.467,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Locomotion,,,STOP
+1499.067,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,START
+1517.133,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,STOP
+1536.933,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Locomotion,,,START
+1549.667,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Locomotion,,,STOP
+1551.533,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,START
+1552.667,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,STOP
+1586.667,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Nesting,,,START
+1593.133,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Nesting,,,STOP
+1600.467,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,START
+1619.933,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,STOP
+1620.200,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Locomotion,,,START
+1636.000,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Locomotion,,,STOP
+1640.667,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,START
+1641.533,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,STOP
+1642.533,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Nesting,,,START
+1647.867,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Nesting,,,STOP
+1649.067,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Playing w/ Ball,,,START
+1654.067,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Playing w/ Ball,,,STOP
+1655.867,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Locomotion,,,START
+1660.933,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Locomotion,,,STOP
+1677.733,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,START
+1762.000,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,STOP
+1765.533,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,START
+1773.600,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,STOP
+1794.933,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Nesting,,,START
+1801.067,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Nesting,,,STOP
+1819.667,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Chewing,,,START
+1831.533,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Chewing,,,STOP
+1860.667,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Locomotion,,,START
+1867.733,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Locomotion,,,STOP
+1868.467,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Chewing,,,START
+2013.933,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Chewing,,,STOP
+2028.600,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Chewing,,,START
+2073.733,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Chewing,,,STOP
+2087.867,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Chewing,,,START
+2203.867,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Chewing,,,STOP
+2219.000,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Chewing,,,START
+2352.000,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Chewing,,,STOP
+2356.067,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Chewing,,,START
+2371.667,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Chewing,,,STOP
+2373.933,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Locomotion,,,START
+2377.800,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Locomotion,,,STOP
+2428.067,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,START
+2505.200,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,STOP
+2507.933,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Nesting,,,START
+2517.800,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Nesting,,,STOP
+2523.800,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Nesting,,,START
+2573.067,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Nesting,,,STOP
+2950.200,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,START
+2954.133,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,STOP
+3524.400,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,START
+3528.867,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,STOP
+3531.667,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,START
+3538.333,/Users/graciezhang/Documents/Hengen-Lab/Hengen-Lab-Work/videos/KDR48/KDR00048_Corner-20220502T151301-161302.mp4,3601.020,15.0,KDR48,Grooming,,,STOP
