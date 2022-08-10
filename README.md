@@ -2,7 +2,7 @@
 Hengen Lab scripts and files concerning video analysis and behavior identification.
 
 ### notebooks
-Includes all notebooks I wrote throughout the summer. All files can be found at this Google Drive link: https://drive.google.com/drive/folders/1OLDA2qVTBfx0auD2oVDhyhke_E-dJtZa?usp=sharing. 
+Includes all notebooks I wrote throughout the summer. All files can be found at this Google Drive link: https://drive.google.com/drive/folders/1OLDA2qVTBfx0auD2oVDhyhke_E-dJtZa?usp=sharing. There are further notes under the directory.
 
 ### organized_annotations
 > **test_annotations**: csv files of behavioral annotations done for Doran's model
