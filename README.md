@@ -1,15 +1,8 @@
 # HL22_GZwork
-Hengen Lab scripts and files concerning video analysis and behavior identification.
+Hengen Lab scripts and files concerning video analysis and behavior identification. Cleaned, explored, and analyzed data concerning the relationship between behavior and sleep states through mice. 
 
-### notebooks
-Includes all notebooks I wrote throughout the summer. All files can be found at this Google Drive link: https://drive.google.com/drive/folders/1OLDA2qVTBfx0auD2oVDhyhke_E-dJtZa?usp=sharing. There are further notes under this directory about the notebooks.
-
-### organized_annotations
-> **test_annotations**: csv files of behavioral annotations done for Doran's model
-
-> **behavior_annotations**: csv files of original behavior annotations
-
-> **annotation_guidelines**: notes on how to properly annotate using BORIS software
+###What I Worked With:
+> Python and related libraries such as NumPy, pandas, OpenCV, Matplotlib, and seaborn
 
 
 
